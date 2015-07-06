@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: 7515055783a745b4687ed7a41cabce35
+timeCreated: 1435642189
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UNO_cards_deck.jpeg_0
+    21300002: UNO_cards_deck.jpeg_1
+    21300004: UNO_cards_deck.jpeg_2
+    21300006: UNO_cards_deck.jpeg_3
+    21300008: UNO_cards_deck.jpeg_4
+    21300010: UNO_cards_deck.jpeg_5
+    21300012: UNO_cards_deck.jpeg_6
+    21300014: UNO_cards_deck.jpeg_7
+    21300016: UNO_cards_deck.jpeg_8
+    21300018: UNO_cards_deck.jpeg_9
+    21300020: UNO_cards_deck.jpeg_10
+    21300022: UNO_cards_deck.jpeg_11
+    21300024: UNO_cards_deck.jpeg_12
+    21300026: UNO_cards_deck.jpeg_13
+    21300028: UNO_cards_deck.jpeg_14
+    21300030: UNO_cards_deck.jpeg_15
+    21300032: UNO_cards_deck.jpeg_16
+    21300034: UNO_cards_deck.jpeg_17
+    21300036: UNO_cards_deck.jpeg_18
+    21300038: UNO_cards_deck.jpeg_19
+    21300040: UNO_cards_deck.jpeg_20
+    21300042: UNO_cards_deck.jpeg_21
+    21300044: UNO_cards_deck.jpeg_22
+    21300046: UNO_cards_deck.jpeg_23
+    21300048: UNO_cards_deck.jpeg_24
+    21300050: UNO_cards_deck.jpeg_25
+    21300052: UNO_cards_deck.jpeg_26
+    21300054: UNO_cards_deck.jpeg_27
+    21300056: UNO_cards_deck.jpeg_28
+    21300058: UNO_cards_deck.jpeg_29
+    21300060: UNO_cards_deck.jpeg_30
+    21300062: UNO_cards_deck.jpeg_31
+    21300064: UNO_cards_deck.jpeg_32
+    21300066: UNO_cards_deck.jpeg_33
+    21300068: UNO_cards_deck.jpeg_34
+    21300070: UNO_cards_deck.jpeg_35
+    21300072: UNO_cards_deck.jpeg_36
+    21300074: UNO_cards_deck.jpeg_37
+    21300076: UNO_cards_deck.jpeg_38
+    21300078: UNO_cards_deck.jpeg_39
+    21300080: UNO_cards_deck.jpeg_40
+    21300082: UNO_cards_deck.jpeg_41
+    21300084: UNO_cards_deck.jpeg_42
+    21300086: UNO_cards_deck.jpeg_43
+    21300088: UNO_cards_deck.jpeg_44
+    21300090: UNO_cards_deck.jpeg_45
+    21300092: UNO_cards_deck.jpeg_46
+    21300094: UNO_cards_deck.jpeg_47
+    21300096: UNO_cards_deck.jpeg_48
+    21300098: UNO_cards_deck.jpeg_49
+    21300100: UNO_cards_deck.jpeg_50
+    21300102: UNO_cards_deck.jpeg_51
+    21300104: UNO_cards_deck.jpeg_52
+    21300106: UNO_cards_deck.jpeg_53
+    21300108: UNO_cards_deck.jpeg_54
+    21300110: UNO_cards_deck.jpeg_55
+    21300112: UNO_cards_deck.jpeg_56
+    21300114: UNO_cards_deck.jpeg_57
+    21300116: UNO_cards_deck.jpeg_58
+    21300118: UNO_cards_deck.jpeg_59
+    21300120: UNO_cards_deck.jpeg_60
+    21300122: UNO_cards_deck.jpeg_61
+    21300124: UNO_cards_deck.jpeg_62
+    21300126: UNO_cards_deck.jpeg_63
+    21300128: UNO_cards_deck.jpeg_64
+    21300130: UNO_cards_deck.jpeg_65
+    21300132: UNO_cards_deck.jpeg_66
+    21300134: UNO_cards_deck.jpeg_67
+    21300136: UNO_cards_deck.jpeg_68
+    21300138: UNO_cards_deck.jpeg_69
+    21300140: UNO_cards_deck.jpeg_70
+    21300142: UNO_cards_deck.jpeg_71
+    21300144: UNO_cards_deck.jpeg_72
+    21300146: UNO_cards_deck.jpeg_73
+    21300148: UNO_cards_deck.jpeg_74
+    21300150: UNO_cards_deck.jpeg_75
+    21300152: UNO_cards_deck.jpeg_76
+    21300154: UNO_cards_deck.jpeg_77
+    21300156: UNO_cards_deck.jpeg_78
+    21300158: UNO_cards_deck.jpeg_79
+    21300160: UNO_cards_deck.jpeg_80
+    21300162: UNO_cards_deck.jpeg_81
+    21300164: UNO_cards_deck.jpeg_82
+    21300166: UNO_cards_deck.jpeg_83
+    21300168: UNO_cards_deck.jpeg_84
+    21300170: UNO_cards_deck.jpeg_85
+    21300172: UNO_cards_deck.jpeg_86
+    21300174: UNO_cards_deck.jpeg_87
+    21300176: UNO_cards_deck.jpeg_88
+    21300178: UNO_cards_deck.jpeg_89
+    21300180: UNO_cards_deck.jpeg_90
+    21300182: UNO_cards_deck.jpeg_91
+    21300184: UNO_cards_deck.jpeg_92
+    21300186: UNO_cards_deck.jpeg_93
+    21300188: UNO_cards_deck.jpeg_94
+    21300190: UNO_cards_deck.jpeg_95
+    21300192: UNO_cards_deck.jpeg_96
+    21300194: UNO_cards_deck.jpeg_97
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UNO_cards_deck.jpeg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_13
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 600
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_26
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_27
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 514
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_33
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_37
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_38
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_39
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_40
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_41
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 428
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_48
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_49
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_50
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_51
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_52
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_53
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_54
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_55
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 342
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_57
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_60
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_61
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_62
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_64
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_65
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_66
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_67
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_68
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_69
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 256
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_74
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_75
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_76
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_77
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_78
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_79
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_80
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_81
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_82
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_83
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 170
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_85
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_86
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_87
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_88
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_89
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_90
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_91
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_92
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_93
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_94
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_95
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_96
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UNO_cards_deck.jpeg_97
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 84
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
